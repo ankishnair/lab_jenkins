@@ -37,6 +37,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		  <option>4</option>
 		  <option>5</option>
 		  <option>6</option>
+                  <option>7</option>
+                  <option>8</option>
+                  <option>9</option>
+                  <option>10</option>
+                  <option>11</option>
+
 		 
 		</select>
 	  </div>
